@@ -63,7 +63,7 @@ Follow these steps to set up the development environment on your machine.
 ### 2. Installation
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/math-app-kotlin.git
+    git clone https://github.com/sparrowsystem/math-app-kotlin.git
     ```
 2.  **Open in Android Studio:**
     - File > Open > Select the cloned folder.
